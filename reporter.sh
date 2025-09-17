@@ -27,4 +27,3 @@ echo "- Total Warning: $WARN_COUNT" >> "$REPORT_FILE"
 echo "- Total Critical Errors: $CRITICAL_COUNT" >> "$REPORT_FILE"
 echo "- Total Player Logins: $LOGIN_COUNT" >> "$REPORT_FILE"
 
-
