@@ -1,1 +1,33 @@
-INFO Player connected
+[2025-09-08 10:00:15] [INFO] User 'jdoe' LOGIN SUCCESS from IP 192.168.1.10
+[2025-09-08 10:01:22] [INFO] User 'asmith' LOGIN SUCCESS from IP 10.0.0.52
+[2025-09-08 10:05:10] [INFO] Service 'cron' executed task 'cleanup_tmp'.
+[2025-09-08 10:05:30] [INFO] User 'jdoe' accessed resource '/api/v1/data'.
+[2025-09-08 10:07:11] [INFO] User 'admin' LOGIN SUCCESS from IP 192.168.1.25
+[2025-09-08 10:09:01] [INFO] User 'asmith' accessed resource '/api/v1/users'.
+[2025-09-08 10:10:00] [INFO] Service 'backup_agent' started.
+[2025-09-08 10:15:00] [INFO] Service 'backup_agent' completed successfully.
+[2025-09-08 10:00:15] [INFO] User 'jdoe' LOGIN SUCCESS from IP 192.168.1.10
+[2025-09-08 10:01:22] [INFO] User 'asmith' LOGIN SUCCESS from IP 10.0.0.52
+[2025-09-08 10:02:18] [INFO] Service 'firewall-update' executed task 'refresh_rules'.
+[2025-09-08 10:04:01] [INFO] User 'jdoe' accessed resource '/api/v1/status'.
+[2025-09-08 10:05:10] [INFO] Service 'cron' executed task 'cleanup_tmp'.
+[2025-09-08 10:05:30] [INFO] User 'jdoe' accessed resource '/api/v1/data'.
+[2025-09-08 10:07:11] [INFO] User 'admin' LOGIN SUCCESS from IP 192.168.1.25
+[2025-09-08 10:09:01] [INFO] User 'asmith' accessed resource '/api/v1/users'.
+[2025-09-08 10:10:00] [INFO] Service 'backup_agent' started.
+[2025-09-08 10:13:00] [INFO] User 'mchen' LOGIN SUCCESS from IP 192.168.2.113
+[2025-09-08 10:13:50] [INFO] User 'mchen' accessed resource '/dashboard'.
+[2025-09-08 10:15:00] [INFO] Service 'backup_agent' completed successfully.
+[2025-09-08 10:15:05] [INFO] User 's.jones' LOGIN SUCCESS from IP 10.0.1.80
+[2025-09-08 10:18:01] [INFO] User 'jdoe' LOGOUT SUCCESS.
+[2025-09-08 10:20:15] [INFO] User 'asmith' LOGOUT SUCCESS.
+[2025-09-08 10:21:00] [INFO] Service 'system-health' reported status OK.
+[2025-09-08 10:22:15] [INFO] User 'dev_user' LOGIN SUCCESS from IP 192.168.1.10
+[2025-09-08 10:23:55] [INFO] User 'dev_user' accessed resource '/api/v2/test_endpoint'.
+[2025-09-08 10:30:00] [INFO] Service 'cron' executed task 'log_rotate'.
+[2025-09-08 10:31:00] [INFO] User 'admin' accessed resource '/admin/panel'.
+[2025-09-08 10:33:00] [INFO] User 's.jones' accessed resource '/reports/generate'.
+[2025-09-08 10:35:10] [INFO] User 'mchen' LOGOUT SUCCESS.
+[2025-09-08 10:40:00] [INFO] Service 'apache2' restart initiated by user 'admin'.
+[2025-09-08 10:40:05] [INFO] Service 'apache2' restart successful.
+[2025-09-08 10:45:00] [INFO] User 'dev_user' LOGOUT SUCCESS.
